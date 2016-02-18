@@ -1,0 +1,43 @@
+html {
+    background-color:hotpink;
+}
+
+#headText{
+text-align: center;
+font-family: Oswald;
+color: white;
+    
+
+}
+nav{
+background-color: purple;
+width: 99%;
+height: -15px;
+padding: 25px;
+}
+ul{
+display: inline;
+top-padding: 50%;
+}
+li{
+display: inline;
+list-style: none;
+padding: 15px;
+}
+a{
+color: white;
+padding: 15px;
+text-align: center;
+text-decoration: none;
+    font-family: Segoe UI;
+}
+
+.selectedItem{
+background-color: black;
+padding: 25px;
+text-align: center;
+text-decoration: none;
+font-family: Segoe UI;
+    
+    
+}
